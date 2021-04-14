@@ -1,0 +1,11 @@
+body {
+    background-image: url("./GettyImages-1211293811.jpg");
+}
+.kwadrat {
+    background-color: rgba(0, 255, 255, 0.562);
+    margin: 10%;
+    width: 80%;
+}
+h1 {
+    text-align: center;
+}
